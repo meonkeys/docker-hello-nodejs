@@ -1,2 +1,2 @@
-FROM node:4
+FROM node:4-slim
 EXPOSE 8888
